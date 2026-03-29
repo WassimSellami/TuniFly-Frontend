@@ -43,4 +43,4 @@ The app will be available at `http://localhost:3000`.
 ## Backend
 
 This frontend requires the TuniFly backend API to function. See the backend repository for setup instructions:
-[https://github.com/WassimSellami/TuniFly-backend](https://github.com/WassimSellami/TuniFly-backend)
+[https://github.com/WassimSellami/tunifly-backend](https://github.com/WassimSellami/tunifly-backend)
