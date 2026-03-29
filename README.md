@@ -2,6 +2,8 @@
 
 The React-based web frontend for **TuniFly** — a flight tracking and price monitoring app for Tunisia. It provides an interactive dashboard to search flights, visualize price history charts, and manage price alert subscriptions.
 
+**Live demo:** [tunifly.onrender.com](https://tunifly.onrender.com)
+
 ## Features
 
 - **Flight Search** – Search and filter flights by date and route
@@ -21,7 +23,7 @@ The React-based web frontend for **TuniFly** — a flight tracking and price mon
 ### Prerequisites
 
 - Node.js 18+
-- The [TuniFly Backend](https://github.com/WassimSellami/tunisia-flights-backend) running and accessible
+- The [TuniFly Backend](https://github.com/WassimSellami/TuniFly-backend) running and accessible
 
 ### Installation
 
@@ -50,4 +52,4 @@ The app will be available at `http://localhost:3000`.
 ## Backend
 
 This frontend requires the TuniFly backend API to function. See the backend repository for setup instructions:
-[https://github.com/WassimSellami/tunisia-flights-backend](https://github.com/WassimSellami/tunisia-flights-backend)
+[https://github.com/WassimSellami/TuniFly-backend](https://github.com/WassimSellami/TuniFly-backend)
