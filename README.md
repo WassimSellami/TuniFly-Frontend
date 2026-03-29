@@ -23,24 +23,15 @@ The React-based web frontend for **TuniFly** — a flight tracking and price mon
 ### Prerequisites
 
 - Node.js 18+
-- The [TuniFly Backend](https://github.com/WassimSellami/TuniFly-backend) running and accessible
+- The [TuniFly Backend](https://github.com/WassimSellami/tunifly-backend) running and accessible
 
 ### Installation
 
 ```bash
-git clone https://github.com/WassimSellami/TuniFly-Frontend.git
-cd TuniFly-Frontend
+git clone https://github.com/WassimSellami/tunifly-Frontend.git
+cd tunifly-frontend
 npm install
 ```
-
-### Environment Variables
-
-Create a `.env` file in the root and point it to your backend:
-
-```env
-REACT_APP_API_URL=http://localhost:10000
-```
-
 ### Run
 
 ```bash
